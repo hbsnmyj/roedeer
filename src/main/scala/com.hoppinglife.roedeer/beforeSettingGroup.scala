@@ -25,7 +25,7 @@ object beforeSettingGroup extends ConfigurationGenerator {
   def display() : String = {
     """ |
       |set background=dark
-      |colorscheme desert
+      |colorscheme solarized
       |
       |set number
       |set ruler

@@ -21,7 +21,8 @@ object vundle extends ConfigurationGenerator {
     "chrisbra/NrrwRgn",
     "jeetsukumaran/vim-buffergator",
     "skalnik/vim-vroom",
-    "majutsushi/tagbar"
+    "majutsushi/tagbar",
+    "altercation/vim-colors-solarized.git"
   )
 
   def ycm_code() : String = {
